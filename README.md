@@ -2,7 +2,7 @@
 Code to compile and format raw GPR data as downloaded from <a href="https://www.screeningeagle.com/">Screening Eagle</a>. 
 Data is downloaded in .zip files, with structure:
 
-. <br>
+.ZIPFILE <br>
 ├── ZIPFILE_Name <br>
 │  ├── Sub Folder<br>
 │  │   ├── Data<br>
